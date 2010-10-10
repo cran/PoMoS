@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: R 2.11.1\n"
+"Report-Msgid-Bugs-To: bugs@r-project.org\n"
+"POT-Creation-Date: 2010-07-20 11:32\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Incorrect number of variables."
+msgstr "Nombre de variables incorrect."
+
+msgid "Criterion values by regressor"
+msgstr "Valeurs du critère par régresseur"
+
+msgid "Total number of observations :"
+msgstr "Nombre d'observations total :"
+
+msgid "Regressors"
+msgstr "Régresseurs"
+
+msgid "Criteria logarithm"
+msgstr "Logarithmes des critères"
+
+msgid "Criteria"
+msgstr "Critères"
+
+msgid "New graph"
+msgstr "Nouveau graphe"
+
+msgid "The computation method of the adjacency matrix ('adj') is not correct."
+msgstr "La méthode de calcul de la matrice d'adjacence ('adj') est incorrecte."
+
+msgid "Number of iterations"
+msgstr "Nombre d'itérations"
+
+msgid "Number of models"
+msgstr "Nombre de modèles"
+
+msgid "Size evolution of the basket of model to test"
+msgstr "Evolution de la taille du panel de test"
+
+msgid "Too many models to add to the basket comparing to the number of regressors."
+msgstr "Nombre de modèles à ajouter au panel trop grand par rapport au nombre de régresseurs."
+
+msgid "Derivatives initialisation / decimation..."
+msgstr "Initialisation des dérivées / décimation ..."
+
+msgid "Regressor series creation..."
+msgstr "Création des séries de régresseurs..."
+
+msgid "Too high polynomial degree comparing to sample size. To go on like this would mean to use more regressors than data."
+msgstr "Degré maximum trop grand par rapport à la taille des échantillons. Continuer ainsi reviendrait à utiliser plus de régresseurs qu'il n'y a de données."
+
+msgid "Setting the intial models..."
+msgstr "Choix des modèles initiaux..."
+
+msgid "Enter the number of initial models or choose to take every models with only one regressor, using the option 'initSingle=T'."
+msgstr "Spécifiez un nombre de modèles initial ou choisissez de prendre tous les modèles à un seul régresseur grâce à 'initSingle=T'."
+
+msgid "Graphical intialisation..."
+msgstr "Initialisation graphique..."
+
+msgid "variable(s) :"
+msgstr "variable(s) :"
+
+msgid "Number of regressors :"
+msgstr "Nombre de régresseurs :"
+
+msgid "The user stops the algorithm."
+msgstr "Interruption par l'utilisateur."
+
+msgid "Continue"
+msgstr "Reprendre"
+
+msgid "The user restarts the algorithm."
+msgstr "L'utilisateur a relancé l'algorithme."
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "The user pauses the algorithm."
+msgstr "L'utilisateur a suspendu l'algorithme."
+
+msgid "Models neighbourhood graph"
+msgstr "Graphe de voisinage des modèles"
+
+msgid "Red : low criterium (optimum), Yellow : high criterium"
+msgstr "Rouge : faible critère (optimum), Jaune : fort critère"
+
+msgid "Error creating boxplots"
+msgstr "Erreur lors de la création de boxplots"
+
+msgid "Stop"
+msgstr "Arrêter"
+
+msgid "Start"
+msgstr "Démarrer"
+
+msgid "Comparing models..."
+msgstr "Comparaisons de modèles..."
+
+msgid "Memory size filled (Mb) : "
+msgstr "Taille mémoire occupée (Mb) : "
+
+msgid "Memory size filled (Mb) after gc : "
+msgstr "Taille mémoire occupée (Mb) après gc : "
+
+msgid "Algorithm restarted."
+msgstr "Redémarrage de l'algorithme."
+
+msgid "Number of models (max :"
+msgstr "Nombre de modèles (max :"
+
+msgid "Test to stop the algorithm..."
+msgstr "Critère d'arrêt..."
+
+msgid "No more models to test. End of the selection."
+msgstr "Plus assez de modèles à tester. Fin de la sélection."
+
+msgid "Choice of the models that will fight..."
+msgstr "Choix des modèles qui vont se battre..."
+
+msgid "Cannot find models to be tested."
+msgstr "Impossible de trouver assez de modèles différents à tester."
+
+msgid "Criterium computation..."
+msgstr "Calcul du critère..."
+
+msgid "Finding the best criterium..."
+msgstr "Détermination du meilleur critère..."
+
+msgid "Adding new models to the basket..."
+msgstr "Ajout des nouveaux modèles..."
+
+msgid "Refreshing the basket of models..."
+msgstr "Actualisation du panel de modèles..."
+
+msgid "The maximum polynomial degree ('dMax') do not match the dimensions of the regressors filter ('filterReg')."
+msgstr "Le degré polynomial maximal ('dMax') ne concorde pas avec les dimensions du filtre à régresseurs ('filterReg')."
+
+msgid "The number of studied variables do not match the dimensions of the regressors filter ('filterReg')."
+msgstr "Le nombre de variables étudiées ne concorde pas avec les dimnensions du filtre à régresseurs ('filterReg')."
+
+msgid "No selected regressors. Impossible to proceed with the modelisation."
+msgstr "Aucun régresseur sélectionné. Impossible de poursuivre la modélisation."
