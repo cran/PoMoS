@@ -1,7 +1,7 @@
 Package: PoMoS
 Type: Package
 Title: Polynomial (ordinary differential equation) Model Search
-Version: 1.1
+Version: 1.1.1
 Date: 2010-10-10
 Author: Mangiarotti S., Coudret R., Drapeau L.
 Depends: R (>= 2.10), RGtk2 (>= 2.12.18), cairoDevice (>= 2.0), igraph
@@ -22,6 +22,6 @@ Description: PoMoS-package aims to determine from a set of N time
 SystemRequirements: Gtk+ (>= 2.16.0)
 Lazyload: no
 License: CeCILL-2
-Packaged: 2010-10-22 16:00:11 UTC; laurent
 Repository: CRAN
-Date/Publication: 2010-10-23 07:42:54
+Date/Publication: 2011-02-11 10:05:44
+Packaged: 2011-02-10 11:04:43 UTC; ripley
