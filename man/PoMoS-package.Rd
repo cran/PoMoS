@@ -9,7 +9,7 @@ An important level of handling can be kept during the model search process: regr
 \tabular{ll}{
 Package: \tab PoMoS\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 1.1\cr
 Date: \tab 2010-10-10\cr
 Depends: \tab R (>= 2.11.1), RGtk2, cairoDevice, igraph\cr
 SystemRequirements: \tab Gtk+ (>= 2.16.0)\cr
